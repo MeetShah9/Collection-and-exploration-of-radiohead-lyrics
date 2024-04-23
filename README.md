@@ -1,5 +1,5 @@
 # Collection and Exploration of Radiohead lyrics
-# Data Collection
+# 1) Data Collection
 
 This Python script scrapes the lyrics of albums by the band Radiohead from Genius.com using their API. It saves the lyrics of each album to individual JSON files.
 
