@@ -18,6 +18,11 @@ You can install the required libraries using pip:
 pip install requests beautifulsoup4 lyricsgenius
 ```
 
+# 2) Data Cleaning 
+This script includes several text preprocessing functions implemented in Python for cleaning up text data.
+This uses Regex Libaray to clean data. 
+
+
 
 
 ## License
