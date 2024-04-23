@@ -12,6 +12,19 @@ This script performs basic EDA on the collected data.
 It uses a word cloud to show which words are most frequently used by Radiohead in their songs.
 It also used a bar graph of show average number of words used per song in each album.
 
+# 4) Cloning the Repository
+
+To clone and run this project locally, use the following commands:
+
+```bash
+git clone https://github.com/MeetShah9/Collection-and-exploration-of-radiohead-lyrics.git
+```
+
+To install the required Python libraries, run the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
+```
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
