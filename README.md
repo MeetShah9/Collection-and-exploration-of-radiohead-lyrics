@@ -1,4 +1,8 @@
 # Collection and Exploration of Radiohead lyrics
+## Overview
+This data was collected with intentions of training a RNN to gnereate lyrics similiar in nature, but due to limited quantity of data being avaiable the model was generating garbage.
+Maybe I will come back to this problem again in future but for now i'm leaving this problem.
+
 # 1) Data Collection
 
 This Python script scrapes the lyrics of albums by the band Radiohead from Genius.com using their API. It saves the lyrics of each album to individual JSON files.
