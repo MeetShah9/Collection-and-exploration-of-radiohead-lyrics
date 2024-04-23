@@ -8,12 +8,16 @@ This script includes several text preprocessing functions implemented in Python 
 This uses Regex Libaray to clean data. 
 
 # 3) EDA
+## This script performs basic EDA on the collected data.
+### It uses a word cloud to show which words are most frequently used by Radiohead in their songs.
 <img width="1146" alt="Screenshot 2024-04-23 at 11 15 51 AM" src="https://github.com/MeetShah9/Collection-and-exploration-of-radiohead-lyrics/assets/148629466/53330940-5c97-4dfe-a7ea-5ae655822f7e">
-This script performs basic EDA on the collected data.
-It uses a word cloud to show which words are most frequently used by Radiohead in their songs.
-It also used a bar graph of show average number of words used per song in each album.
 
-# 4) Cloning the Repository
+### It also uses a bar graph to show average number of words used per song in each album.
+<img width="1127" alt="Screenshot 2024-04-23 at 11 17 01 AM" src="https://github.com/MeetShah9/Collection-and-exploration-of-radiohead-lyrics/assets/148629466/a96ec2b3-82d8-487b-9985-3a7807e28bc3">
+
+
+
+## Cloning the Repository
 
 To clone and run this project locally, use the following commands:
 
