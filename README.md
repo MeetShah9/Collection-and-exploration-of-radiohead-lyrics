@@ -8,6 +8,7 @@ This script includes several text preprocessing functions implemented in Python 
 This uses Regex Libaray to clean data. 
 
 # 3) EDA
+<img width="1146" alt="Screenshot 2024-04-23 at 11 15 51 AM" src="https://github.com/MeetShah9/Collection-and-exploration-of-radiohead-lyrics/assets/148629466/53330940-5c97-4dfe-a7ea-5ae655822f7e">
 This script performs basic EDA on the collected data.
 It uses a word cloud to show which words are most frequently used by Radiohead in their songs.
 It also used a bar graph of show average number of words used per song in each album.
@@ -25,6 +26,11 @@ To install the required Python libraries, run the following command in your term
 ```bash
 pip install -r requirements.txt
 ```
+
+
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
