@@ -1,6 +1,6 @@
 # Collection and Exploration of Radiohead lyrics
 ## Overview
-Collection of Radiohead Lyrics Using LyricsGenius API.
+Creation of a dataset containing Radiohead lyrics and performing EDA
 
 # 1) Data Collection
 
